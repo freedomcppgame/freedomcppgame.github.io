@@ -28,9 +28,9 @@ C++游戏就游戏，不要搞关机代码和内存溢出，
 
 ### [c++游戏：](https://freedomcppgame.github.io/src/)
 
-万门之门
+- [万门之门](https://github.com/freedomcppgame/freedomcppgame.github.io/blob/master/src/wanmenzhimen.cpp)
 
-赌场系统V1.0
+- [赌场系统](https://github.com/freedomcppgame/freedomcppgame.github.io/blob/master/src/duchangxitongv1.0.cpp)
 
 ……
 
