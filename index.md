@@ -26,7 +26,7 @@ C++游戏就游戏，不要搞关机代码和内存溢出，
 
 ## 我们的物品
 
-### [c++游戏：](https://github.com/freedomcppgame/freedomcppgame.github.io/tree/master/src)
+### [c++游戏：](https://freedomcppgame.github.io/src/)
 
 万门之门
 
