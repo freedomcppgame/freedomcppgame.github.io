@@ -40,7 +40,9 @@ filerandom
 
 ## 项目
 
-- <abbr title="Follow me,Fuck C++!">FFCPP</abbr>
+- FFCPP
+
+注：FFCPP全名是“Follow me,~~Fuck~~ C++!”，是一个伪代码标准规范，~~当然理解成“方方擦屁屁”也没有问题~~
 
 - 编程价值商业化倡议
 
