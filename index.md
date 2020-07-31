@@ -38,6 +38,12 @@ C++游戏就游戏，不要搞关机代码和内存溢出，
 
 filerandom
 
+## 项目
+
+- <abbr title="Follow me,Fuck C++!">FFCPP</abbr>
+
+- 编程价值商业化倡议
+
 ## 愿景
 
 | 目标                    | 实现时间 |
